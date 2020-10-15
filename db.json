@@ -1,0 +1,65 @@
+{
+  "pelanggan": [
+    {
+      "id": "kd1",
+      "Nama": "Azri Akma",
+      "Usia": "23",
+      "JK": "Laki - Laki",
+      "Alamat": "Jati",
+      "NoTelp": "0858",
+      "Email": "@gmail.com"
+    },
+    {
+      "id": "kd2",
+      "Nama": "Enci",
+      "Usia": "28",
+      "JK": "Perempuan",
+      "Alamat": "Munjul",
+      "NoTelp": "0812",
+      "Email": "@gmail.com"
+    },
+    {
+      "id": "kd3",
+      "Nama": "Apit",
+      "Usia": "32",
+      "JK": "Laki - Laki",
+      "Alamat": "Kepo",
+      "NoTelp": "0854",
+      "Email": "@gmail.com"
+    }
+  ],
+  "sepeda": [
+    {
+      "id": "ks1",
+      "nama": "Bro",
+      "tipe": "Sport",
+      "ketersediaan": "4",
+      "harga": "20000"
+    },
+    {
+      "id": "ks3",
+      "nama": "Family",
+      "tipe": "Lipat",
+      "ketersediaan": "5",
+      "harga": "20000"
+    },
+    {
+      "id": "ks2",
+      "nama": "Yamaha",
+      "tipe": "mesin",
+      "ketersediaan": "400",
+      "harga": "200000"
+    }
+  ],
+  "sewa": [],
+  "petugas": [
+    {
+      "id": "kp1",
+      "nama": "azri",
+      "password": "123456",
+      "alamat": "Jakarta",
+      "notelp": "0856",
+      "email": "@gmail.com"
+    }
+  ]
+}
